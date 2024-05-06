@@ -13,19 +13,15 @@ export default function Editor(props) {
     }
     return (
         <div className="editor-container">
-            <div className="editor-title">
+            <div className=" flex justify-between text-white bg-slate-500 p-2 rounded">
                 {displayName}
-                <button>O/C</button>
+                <button className=' rounded bg-white text-black px-2'>O/C</button>
             </div>
             <ControlledEditor
                 onBeforeChange={handleChange}
                 value={value}
                 className='code-mirror-wrapper'
-                options={{
-                    lineWrapping: true,
-                    lint: true,
-                    mode: language,
-                    lineNumbers: true,
+                options={{  lineWrapping: true, lint: true, mode: language, theme: 'material', lineNumbers: true,
                 }}
             />
         </div>

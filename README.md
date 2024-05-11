@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Getting Started with Create Code-Pad
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This project Basic Design tempalete 
+
+## Basic design run excalidraw online design pad
+
+![Obaydul_design](https://github.com/ObaydulK/CodePad/assets/88238461/351be000-adc5-4f3b-8588-490f6a7c575e)
+## Show this localhost server run 
+
+![Screenshot (288)](https://github.com/ObaydulK/CodePad/assets/88238461/367413e6-8030-4d96-bd20-2963be0ce811)
+
+## Codeing test my codepade 3 card show and hover, good work this is the live demo screenshort 
+
+![Screenshot (287)](https://github.com/ObaydulK/CodePad/assets/88238461/c3453c0d-67ce-4bc4-a7e8-904667e5aaa7)
+
+###this the vercel useLocalStorage so you can codebass refresh your data in not lossed so useLocalStorage is very helfull & more add CompressAlt & ExpandAlt
+
+![Screenshot (291)](https://github.com/ObaydulK/CodePad/assets/88238461/e8a176bd-f60a-4f21-8788-f14ec2a875bf)
+
 
 ## Available Scripts
 
@@ -39,32 +55,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

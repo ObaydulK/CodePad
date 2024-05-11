@@ -13,7 +13,10 @@
 
 ![Screenshot (287)](https://github.com/ObaydulK/CodePad/assets/88238461/c3453c0d-67ce-4bc4-a7e8-904667e5aaa7)
 
-#this the vercel link side about
+###this the vercel useLocalStorage so you can codebass refresh your data in not lossed so useLocalStorage is very helfull & more add CompressAlt & ExpandAlt
+
+![Screenshot (291)](https://github.com/ObaydulK/CodePad/assets/88238461/e8a176bd-f60a-4f21-8788-f14ec2a875bf)
+
 
 ## Available Scripts
 

@@ -20,6 +20,12 @@ body{
     padding: .5rem;
     background: hsl(225, 6%, 25%);
 }
+.editor-container.collapsed {
+    flex-grow: 0;
+}
+.editor-container.collapsed .CodeMirror-scroll {
+    position: absolute;
+}
 .CodeMirror{
     height: 100% !important;
 }
